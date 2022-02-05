@@ -6,3 +6,4 @@
 - File **'desc_sort_by_dim_frequency.csv'**  shows statistical results on descriptions grouped by their hyper dimensions after manual processing.
 - File **'desc_to_targets.csv'** shows the bottom descriptions and their paring target words without dimension classification after manual processing.
 - File **'target_desc_single_pairs.csv'** lists all single 'target-dimension-description' pairs after manual processing.
+- File **'text_verbalizer.csv'** lists all templates for Chinese text competion in text verbalizer before data embedded into the model.
